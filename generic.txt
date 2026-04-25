@@ -1,0 +1,9 @@
+test
+admin
+1
+0
+null
+undefined
+FUZZ
+debug
+internal

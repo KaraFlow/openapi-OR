@@ -1,0 +1,14 @@
+admin
+test
+user
+guest
+root
+null
+undefined
+true
+false
+../../etc/passwd
+..\\..\\windows\\win.ini
+' OR 1=1 --
+" OR "1"="1
+<svg/onload=alert(1)>
